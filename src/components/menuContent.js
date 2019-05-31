@@ -8,7 +8,7 @@ const menuContent = () => {
             <div class="row d-flex">
                 <div class="food-card">
                     <div class="food-img">
-                        <img src="../src/img/food1.jpg" width="100%" alt="">
+                        <img src="../dist/img/food1.jpg" width="100%" alt="">
                     </div>
                     <div class="content-food">
                         <div class="value-food d-flex">
@@ -20,7 +20,7 @@ const menuContent = () => {
                 </div>
                 <div class="food-card">
                     <div class="food-img">
-                        <img src="../src/img/food2.jpg" width="100%" alt="">
+                        <img src="../dist/img/food2.jpg" width="100%" alt="">
                     </div>
                     <div class="content-food">
                         <div class="value-food d-flex">
@@ -32,7 +32,7 @@ const menuContent = () => {
                 </div>
                 <div class="food-card">
                     <div class="food-img">
-                        <img src="../src/img/food3.jpg" width="100%" alt="">
+                        <img src="../dist/img/food3.jpg" width="100%" alt="">
                     </div>
                     <div class="content-food">
                         <div class="value-food d-flex">
@@ -44,7 +44,7 @@ const menuContent = () => {
                 </div>
                 <div class="food-card">
                     <div class="food-img">
-                        <img src="../src/img/food4.jpg" width="100%" alt="">
+                        <img src="../dist/img/food4.jpg" width="100%" alt="">
                     </div>
                     <div class="content-food">
                         <div class="value-food d-flex">
@@ -56,7 +56,7 @@ const menuContent = () => {
                 </div>
                 <div class="food-card">
                     <div class="food-img">
-                        <img src="../src/img/food5.jpg" width="100%" alt="">
+                        <img src="../dist/img/food5.jpg" width="100%" alt="">
                     </div>
                     <div class="content-food">
                         <div class="value-food d-flex">

@@ -8,7 +8,7 @@ const menuContent = () => {
             <div class="row d-flex">
                 <div class="food-card">
                     <div class="food-img">
-                        <img src="../dist/img/food1.jpg" width="100%" alt="">
+                        <img src="https://cdn.midiamax.com.br/elasticbeanstalk-us-west-2-809048387867/uploads/2016/05/arquivos_noticias_2016_mai_risoto-com-arroz-integral-640x430.jpg" width="100%" alt="">
                     </div>
                     <div class="content-food">
                         <div class="value-food d-flex">
@@ -20,7 +20,7 @@ const menuContent = () => {
                 </div>
                 <div class="food-card">
                     <div class="food-img">
-                        <img src="../dist/img/food2.jpg" width="100%" alt="">
+                        <img src="https://www.guiadasemana.com.br/contentFiles/image/2017/11/FEA/galeria/50998_w840h525_1510324750pizza-em-fatias.jpg" width="100%" alt="">
                     </div>
                     <div class="content-food">
                         <div class="value-food d-flex">
@@ -32,7 +32,7 @@ const menuContent = () => {
                 </div>
                 <div class="food-card">
                     <div class="food-img">
-                        <img src="../dist/img/food3.jpg" width="100%" alt="">
+                        <img src="http://prefeituradeatibaia.com.br/wp-content/uploads/2016/11/boteco_ilustra3.jpg" width="100%" alt="">
                     </div>
                     <div class="content-food">
                         <div class="value-food d-flex">
@@ -44,7 +44,7 @@ const menuContent = () => {
                 </div>
                 <div class="food-card">
                     <div class="food-img">
-                        <img src="../dist/img/food4.jpg" width="100%" alt="">
+                        <img src="https://www.guiadasemana.com.br/contentFiles/image/2017/11/FEA/principal/50998_w840h0_1510322350massa.jpg" width="100%" alt="">
                     </div>
                     <div class="content-food">
                         <div class="value-food d-flex">
@@ -56,7 +56,7 @@ const menuContent = () => {
                 </div>
                 <div class="food-card">
                     <div class="food-img">
-                        <img src="../dist/img/food5.jpg" width="100%" alt="">
+                        <img src="http://i-exc.ccm2.net/iex/1280/1112144733/1796451.jpg" width="100%" alt="">
                     </div>
                     <div class="content-food">
                         <div class="value-food d-flex">

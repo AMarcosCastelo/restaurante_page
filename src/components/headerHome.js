@@ -9,7 +9,7 @@ const loadHomePage = () => {
                 <div class="row d-flex">
                     <div class="d-flex">
                         <div>
-                            <img src="../dist/img/odin.png"  alt="Logo Odin" width="60px">
+                            <img src="https://cdn0.iconfinder.com/data/icons/viking-2/500/viking_5-512.png"  alt="Logo Odin" width="60px">
                         </div>
                         <div class="header-logo">
                             <h2 class="m-0">Odin Castle Restaurant</h2>
